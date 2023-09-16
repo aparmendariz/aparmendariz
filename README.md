@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on projects related to machine learning, data analysis, and econometric research.
 - 📫 How to reach me:
    - GitHub: [@aparmendariz](https://github.com/aparmendariz)
-   - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/ana-armendariz-pacheco)
+   - LinkedIn: [LinkedIn](https://www.linkedin.com/in/ana-armendariz-pacheco)
